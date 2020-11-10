@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\projecto teste\projecto teste\bin\Debug\projecto teste.exe.config
+C:\Users\Lenovo\Desktop\projecto teste\projecto teste\bin\Debug\projecto teste.exe
+C:\Users\Lenovo\Desktop\projecto teste\projecto teste\bin\Debug\projecto teste.pdb
+C:\Users\Lenovo\Desktop\projecto teste\projecto teste\obj\Debug\projecto teste.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\projecto teste\projecto teste\obj\Debug\projecto teste.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\projecto teste\projecto teste\obj\Debug\projecto teste.exe
+C:\Users\Lenovo\Desktop\projecto teste\projecto teste\obj\Debug\projecto teste.pdb
